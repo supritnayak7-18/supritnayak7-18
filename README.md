@@ -17,17 +17,16 @@
 
 ## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/suprit-prasad-nayak-3860313b0/"><img src="https://shields.io" alt="LinkedIn"></a>
-<a href="https://github.com/supritnayak7-18"><img src="https://shields.io" alt="GitHub"></a>
+<a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"/></a> <a href="https://github.com"><img src="https://shields.io" alt="GitHub"/></a>
 
 <hr />
 
 ## 💻 Tech Stack
 
-<img src="https://shields.io" alt="Java"> <img src="https://shields.io" alt="Spring"> <img src="https://shields.io" alt="Spring Boot"> <img src="https://shields.io" alt="MySQL"> <img src="https://shields.io" alt="React"> <img src="https://shields.io" alt="Git"> <img src="https://shields.io" alt="Tailwind CSS" height="35"/> <img src="https://shields.io" alt="MongoDB" height="35"/>
-
-
+<img src="https://shields.io" alt="Java"/> <img src="https://shields.io" alt="Spring"/> <img src="https://shields.io" alt="Spring Boot"/> <img src="https://shields.io" alt="MySQL"/> <img src="https://shields.io" alt="React"/> <img src="https://shields.io" alt="Tailwind CSS"/> <img src="https://shields.io" alt="MongoDB"/> <img src="https://shields.io" alt="Git"/>
 
 <hr />
 
 ⭐ Thanks for visiting my profile!
+
+
