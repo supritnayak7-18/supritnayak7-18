@@ -23,7 +23,7 @@
 
 ## 💻 Tech Stack
 
-<img src="https://shields.io" alt="Java"/> <img src="https://shields.io" alt="Spring"/> <img src="https://shields.io" alt="Spring Boot"/> <img src="https://shields.io" alt="MySQL"/> <img src="https://shields.io" alt="React"/> <img src="https://shields.io" alt="Tailwind CSS"/> <img src="https://shields.io" alt="MongoDB"/> <img src="https://shields.io" alt="Git"/>
+<img src="https://shields.io" alt="Java"/> <img src="https://shields.io" alt="JavaScript"/> <img src="https://shields.io" alt="Nodejs"/> <img src="https://shields.io" alt="MySQL"/> <img src="https://shields.io" alt="React"/> <img src="https://shields.io" alt="Tailwind CSS"/> <img src="https://shields.io" alt="MongoDB"/> <img src="https://shields.io" alt="Git"/>
 
 <hr />
 
