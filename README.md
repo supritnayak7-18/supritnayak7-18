@@ -9,7 +9,6 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 MCA Student
-- 🌱 Currently learning **Spring Boot, & DSA**
 - 💻 Building **Full Stack Projects**
 - 📫 Reach me at **supritprasadnayak@gmail.com**
 
